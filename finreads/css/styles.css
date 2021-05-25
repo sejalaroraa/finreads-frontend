@@ -1,0 +1,163 @@
+h1{
+    font-family: "arial";
+    
+    color:rgb(6, 110, 196);
+    font-weight:600;
+}
+
+
+
+
+
+p{
+    color: black;
+    justify-content: center;
+}
+
+
+.container-fluid{
+    padding: 3% 10% 5% 10%;
+}
+body{
+    font-family: "arial";
+    color:rgb(6, 110, 196);
+}
+#title{
+   background-color: white;
+   text-align: center;
+}
+
+
+
+nav .navbar-toggler-icon{
+color:white !important;
+}
+
+
+
+
+
+.read{
+    border-radius: 12px;
+    background-color:rgb(229, 226, 226);
+    width:140px;
+    height:35px;
+    padding:0px;
+    font-weight: 100;
+    font-size:19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow:0 1px 1px 1px rgb(196, 195, 195);
+    color:rgb(119, 119, 119);
+    
+    
+}
+
+.btn-dark{
+    background-color: black;
+    margin-inline-end: 20px;
+    margin-top: 10px;
+    width: 200px;
+    height:60px;
+    padding:0px;
+    text-align:left;
+    padding-left: 60px;
+
+}
+
+
+.btn-txt{
+    
+    font-size: 10px;
+   margin-bottom: -30px;
+}
+
+.left-icon-holder {
+    position:relative;
+}
+.left-icon-holder .fab {
+        position:absolute;
+    line-height: 30px;
+    top:50%;
+    margin-top: -15px;
+    left: 10px;
+}
+
+
+.bts{
+    text-decoration: underline;
+    color:rgb(6, 110, 196);
+    text-align: left;
+    text-indent: 70px;
+    display: block;
+    margin-bottom: 200px;
+}
+
+.ca{
+    
+    text-decoration: underline;
+    color:rgb(6, 110, 196);
+    text-align: center;
+    
+}
+
+
+.news-btn{
+    align-items: center;
+    border-radius: 20em;
+    background-color:rgb(6, 110, 196);
+    text-decoration: underline;
+    width:500px;
+    margin-top:20px;
+    margin-bottom: 30px;
+    color:white;
+    font-weight: bolder;
+    
+}
+
+/*footer*/
+#as-footer {
+    background:#2A2D35;
+    padding:40px 0 30px 0;
+    color: white;
+    text-align:center;
+    
+    
+    
+}
+
+#as-footer h3 {
+    color:#fff;
+    font-size:20px;
+    font-weight:600;
+   
+}
+#as-footer ul li {
+    line-height:35px;
+    
+}
+#as-footer a, #as-footer p {
+    color:#f7fbff;
+    font-size:15px;
+    font-weight:600;
+}
+#as-footer a {
+    color:#f0f2f5;
+    text-decoration:none;
+}
+#as-footer a:hover {
+    color:#fff;
+}
+#as-footer .as_copy {
+    padding-top:40px;
+    border-top:1px solid #373b44;
+}
+
+h6{
+    font-weight: lighter !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.me-4{
+    font-weight: 100 !important;
+    padding-left: 20px;
+}
